@@ -1,0 +1,7 @@
+extern u64 minecraftDiamondSwordSheathDL_diamond_sword_sheath_ci4[];
+extern u64 minecraftDiamondSwordSheathDL_diamond_sword_sheath_pal_rgba16[];
+extern Vtx minecraftDiamondSwordSheathDL_minecraftDiamondSwordSheathDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx minecraftDiamondSwordSheathDL_minecraftDiamondSwordSheathDL_mesh_layer_Opaque_vtx_0[538];
+extern Gfx minecraftDiamondSwordSheathDL_minecraftDiamondSwordSheathDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_minecraftDiamondSwordSheathDL_diamond_sword_sheath_layerOpaque[];
+extern Gfx minecraftDiamondSwordSheathDL[];

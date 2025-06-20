@@ -1,0 +1,7 @@
+extern u64 minecraftIronSwordBladeDL_iron_sword_ci4[];
+extern u64 minecraftIronSwordBladeDL_iron_sword_pal_rgba16[];
+extern Vtx minecraftIronSwordBladeDL_minecraftIronSwordBladeDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx minecraftIronSwordBladeDL_minecraftIronSwordBladeDL_mesh_layer_Opaque_vtx_0[321];
+extern Gfx minecraftIronSwordBladeDL_minecraftIronSwordBladeDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_minecraftIronSwordBladeDL_iron_sword_layerOpaque[];
+extern Gfx minecraftIronSwordBladeDL[];

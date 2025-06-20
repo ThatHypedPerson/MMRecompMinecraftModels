@@ -1,0 +1,7 @@
+extern u64 minecraftShieldDL_shield_base_nopattern_ci8[];
+extern u64 minecraftShieldDL_shield_base_nopattern_pal_rgba16[];
+extern Vtx minecraftShieldDL_minecraftShieldDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx minecraftShieldDL_minecraftShieldDL_mesh_layer_Opaque_vtx_0[72];
+extern Gfx minecraftShieldDL_minecraftShieldDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_minecraftShieldDL_shield_layerOpaque[];
+extern Gfx minecraftShieldDL[];

@@ -1,0 +1,7 @@
+extern u64 minecraftTridentDL_trident_hand_ci4[];
+extern u64 minecraftTridentDL_trident_hand_pal_rgba16[];
+extern Vtx minecraftTridentDL_minecraftTridentDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx minecraftTridentDL_minecraftTridentDL_mesh_layer_Opaque_vtx_0[120];
+extern Gfx minecraftTridentDL_minecraftTridentDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_minecraftTridentDL_f3dlite_material_layerOpaque[];
+extern Gfx minecraftTridentDL[];

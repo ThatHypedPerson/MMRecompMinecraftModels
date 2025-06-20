@@ -1,0 +1,7 @@
+extern u64 minecraftDiamondSwordHandleDL_diamond_sword_ci4[];
+extern u64 minecraftDiamondSwordHandleDL_diamond_sword_pal_rgba16[];
+extern Vtx minecraftDiamondSwordHandleDL_minecraftDiamondSwordHandleDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx minecraftDiamondSwordHandleDL_minecraftDiamondSwordHandleDL_mesh_layer_Opaque_vtx_0[324];
+extern Gfx minecraftDiamondSwordHandleDL_minecraftDiamondSwordHandleDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_minecraftDiamondSwordHandleDL_diamond_sword_layerOpaque[];
+extern Gfx minecraftDiamondSwordHandleDL[];

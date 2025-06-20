@@ -1,0 +1,7 @@
+extern u64 minecraftGoldSwordBladeDL_golden_sword_ci4[];
+extern u64 minecraftGoldSwordBladeDL_golden_sword_pal_rgba16[];
+extern Vtx minecraftGoldSwordBladeDL_minecraftGoldSwordBladeDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx minecraftGoldSwordBladeDL_minecraftGoldSwordBladeDL_mesh_layer_Opaque_vtx_0[321];
+extern Gfx minecraftGoldSwordBladeDL_minecraftGoldSwordBladeDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_minecraftGoldSwordBladeDL_gold_sword_layerOpaque[];
+extern Gfx minecraftGoldSwordBladeDL[];

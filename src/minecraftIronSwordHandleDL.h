@@ -1,0 +1,7 @@
+extern u64 minecraftIronSwordHandleDL_iron_sword_ci4[];
+extern u64 minecraftIronSwordHandleDL_iron_sword_pal_rgba16[];
+extern Vtx minecraftIronSwordHandleDL_minecraftIronSwordHandleDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx minecraftIronSwordHandleDL_minecraftIronSwordHandleDL_mesh_layer_Opaque_vtx_0[320];
+extern Gfx minecraftIronSwordHandleDL_minecraftIronSwordHandleDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_minecraftIronSwordHandleDL_iron_sword_layerOpaque[];
+extern Gfx minecraftIronSwordHandleDL[];

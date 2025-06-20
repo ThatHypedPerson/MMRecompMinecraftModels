@@ -1,0 +1,7 @@
+extern u64 minecraftGoldSwordHandleDL_golden_sword_ci4[];
+extern u64 minecraftGoldSwordHandleDL_golden_sword_pal_rgba16[];
+extern Vtx minecraftGoldSwordHandleDL_minecraftGoldSwordHandleDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx minecraftGoldSwordHandleDL_minecraftGoldSwordHandleDL_mesh_layer_Opaque_vtx_0[320];
+extern Gfx minecraftGoldSwordHandleDL_minecraftGoldSwordHandleDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_minecraftGoldSwordHandleDL_gold_sword_layerOpaque[];
+extern Gfx minecraftGoldSwordHandleDL[];
