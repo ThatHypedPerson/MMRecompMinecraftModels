@@ -14,6 +14,8 @@
 #include "minecraftTridentDL.h"
 #include "minecraftShieldDL.h"
 #include "minecraftBowDL.h"
+#include "minecraftArrowDL.h"
+#include "minecraftArrowLodDL.h"
 #include "minecraftStickDL.h"
 
 extern Gfx gLinkHumanHerosShieldDL[];
@@ -27,6 +29,8 @@ extern Gfx gKokiriSwordBladeDL[];
 extern Gfx gLinkHumanBowDL[];
 extern Gfx object_link_child_DL_018490[]; // hand holding bow
 extern Gfx object_link_child_DL_017818[]; // bow string
+extern Gfx gameplay_keep_DL_013FF0[]; // arrow
+extern Gfx gameplay_keep_DL_014370[]; // arrow lod
 extern Gfx gDekuStickDL[];
 
 MODEL_REPLACER_CALLBACK_ON_REGISTER_REPLACERS
@@ -47,6 +51,9 @@ void register_replacements() {
     // bow
     ModelReplacer_registerReplacer(OBJECT_LINK_CHILD, gLinkHumanBowDL, minecraftBowDL);
     ModelReplacer_registerReplacer(OBJECT_LINK_CHILD, object_link_child_DL_018490, minecraftBowDL);
+    // arrow
+    ModelReplacer_registerReplacer(GAMEPLAY_KEEP, gameplay_keep_DL_013FF0, minecraftArrowDL);
+    ModelReplacer_registerReplacer(GAMEPLAY_KEEP, gameplay_keep_DL_014370, minecraftArrowLodDL);
     // stick
     ModelReplacer_registerReplacer(GAMEPLAY_KEEP, gDekuStickDL, minecraftStickDL);
 }

@@ -1,0 +1,7 @@
+extern u64 minecraftArrowLodDL_arrow_ci4[];
+extern u64 minecraftArrowLodDL_arrow_pal_rgba16[];
+extern Vtx minecraftArrowLodDL_minecraftArrowLodDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx minecraftArrowLodDL_minecraftArrowLodDL_mesh_layer_Opaque_vtx_0[18];
+extern Gfx minecraftArrowLodDL_minecraftArrowLodDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_minecraftArrowLodDL_arrow_layerOpaque[];
+extern Gfx minecraftArrowLodDL[];
